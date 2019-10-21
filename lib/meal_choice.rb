@@ -1,4 +1,4 @@
 # Your code here
-def meal_choice(arg1, arg2)
+def meal_choice(vegetable, starch)
   "A plate of meat with broccoli and macaroni."
 end
